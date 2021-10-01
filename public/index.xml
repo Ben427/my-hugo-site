@@ -14,7 +14,8 @@
       
       <guid>/posts/hello-world/</guid>
       <description></description>
-      <content></content>
+      <content>&lt;!-- raw HTML omitted --&gt;
+</content>
     </item>
     
   </channel>
