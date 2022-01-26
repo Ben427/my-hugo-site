@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "cupper"
 paginate = 5
 
 [params]
@@ -70,3 +70,4 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+theme = "cupper"
